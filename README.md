@@ -3,10 +3,10 @@
 1. Clonar o instalar
 2. Ejecutar el comando:
 ```
-yarn install
+npm install
 ```
 
 3. Correr la aplicación
 ```
-yarn dev
+npm run dev
 ```
